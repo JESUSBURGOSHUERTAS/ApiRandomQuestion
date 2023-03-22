@@ -9,11 +9,19 @@
 
 <script>
 export default {
-  props: ["title"],
+  props: {
+    title: String,
+    start: {
+      type: Number,
+      default: 100,
+    } 
+
+    
+  },
   // name: 'patito'
   data() {
     return {
-      counter: 5,
+      counter: this.start,
     };
   },
   methods: {
