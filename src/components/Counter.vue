@@ -14,6 +14,9 @@ export default {
     start: {
       type: Number,
       default: 100,
+      validator(value){
+        return value >=0
+      }
     } 
 
     
