@@ -18,6 +18,10 @@ Esta es una aplicación web simple de Vue.js que consume una API para mostrar im
 
 Simplemente abre la aplicación y haz clic en el botón para obtener una respuesta de sí o no de la API. La aplicación mostrará entonces una imagen divertida basada en la respuesta.
 
+## Probar
+
+https://vueapi-random.netlify.app/
+
 ## Contribuyendo
 
 ¡Las contribuciones son bienvenidas! No dudes en enviar un pull request o abrir un problema.
