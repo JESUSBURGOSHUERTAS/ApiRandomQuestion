@@ -1,24 +1,27 @@
-# 03-fundamentos
+# Aplicación de imágenes divertidas de Vue.js Sí/No
 
-## Project setup
-```
-npm install
-```
+Esta es una aplicación web simple de Vue.js que consume una API para mostrar imágenes divertidas basadas en una respuesta de sí o no.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Características
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Consume una API para obtener una respuesta de sí o no
+- Muestra imágenes divertidas basadas en la respuesta de la API
+- Construido con Vue.js
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## Instalación
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Clona este repositorio
+2. Instala las dependencias con `npm install`
+3. Ejecuta la aplicación con `npm run serve`
+
+## Uso
+
+Simplemente abre la aplicación y haz clic en el botón para obtener una respuesta de sí o no de la API. La aplicación mostrará entonces una imagen divertida basada en la respuesta.
+
+## Contribuyendo
+
+¡Las contribuciones son bienvenidas! No dudes en enviar un pull request o abrir un problema.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT.
